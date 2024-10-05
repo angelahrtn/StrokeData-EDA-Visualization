@@ -1,4 +1,4 @@
-# StrokeData-Eda-Visualization
+# StrokeData-EDA-Visualization
 # Project Overview
 This project represents an Exploratory Data Analysis (EDA) and visualization of a dataset related to stroke prediction. The goal was to analyze various health-related factors such as BMI, glucose levels, and lifestyle habits, which can potentially contribute to strokes. This analysis was part of my final exam project for the "Introduction to Data Science" course during my first semester.
 
